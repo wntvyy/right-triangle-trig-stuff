@@ -68,7 +68,7 @@ local pyt1 = distance1
 local pyt2 = distance2
 local pyt3 = distance3
 
--- sort values highest to lowest
+-- sort values lowest to highest
 
 table.insert(distanceTable, pyt1)
 table.insert(distanceTable, pyt2)
